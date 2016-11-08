@@ -1,4 +1,4 @@
-# 海天鹰浏览器
+# 海天鹰画图
 <img src=https://github.com/sonichy/HTYPaint/blob/master/preview.png>
 
 Linux 平台基于 GTK+2 的迷你画图程序。   
