@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/host/HY/Linux/GTK2/HTYPaint/HTYPaint64
+Icon=/host/HY/Linux/GTK2/HTYPaint/icon.png
+Path=/host/HY/Linux/GTK2/HTYPaint/
+Name=海天鹰画图
+Categories=Graphics;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;
+Name[zh_CN]=海天鹰画图
